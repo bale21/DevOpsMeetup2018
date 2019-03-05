@@ -22,3 +22,6 @@ All DevOps Meetup in 2018
 - [Service mesh with istio](https://www.slideshare.net/WisnuPrabowo20/service-mesh-with-istio)
 - [Ansible + docker](https://www.slideshare.net/WisnuPrabowo20/ansible-docker-112368222)
 
+## DevOps Meetup Juli 2018
+[DevOps at Tokopedia](https://www.slideshare.net/DevOpsIndonesia/devops-at-tokopedia-devops-indonesia-meetup-july-2018-107305019)
+
