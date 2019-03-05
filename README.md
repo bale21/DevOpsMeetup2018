@@ -15,3 +15,10 @@ All DevOps Meetup in 2018
 - [The Open Source Way](https://www.slideshare.net/HanantoWibowoSoenart/devsecops-the-open-source-way-by-yusuf-hadiwinata)
 - [DevOps Workaround](https://www.slideshare.net/HanantoWibowoSoenart/devops-workaround-by-sulhan-20180926)
 
+## DevOps Meetup Agustus 2018
+- https://github.com/win-t/devops_meetup_28_aug
+- [Introduction to Red Hat OpenShift Container Platform](https://www.slideshare.net/secret/IxZGV1Q81157nN)
+- [Ci cd with Openshift](https://www.slideshare.net/WisnuPrabowo20/ci-cd-with-openshift)
+- [Service mesh with istio](https://www.slideshare.net/WisnuPrabowo20/service-mesh-with-istio)
+- [Ansible + docker](https://www.slideshare.net/WisnuPrabowo20/ansible-docker-112368222)
+
