@@ -14,3 +14,4 @@ All DevOps Meetup in 2018
 ## DevOps Meetup Sepetember 2018
 - [The Open Source Way](https://www.slideshare.net/HanantoWibowoSoenart/devsecops-the-open-source-way-by-yusuf-hadiwinata)
 - [DevOps Workaround](https://www.slideshare.net/HanantoWibowoSoenart/devops-workaround-by-sulhan-20180926)
+
